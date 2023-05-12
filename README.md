@@ -1,9 +1,16 @@
 <h1 align="center">Olá 👋, meu nome é Gabriel de Carvalho Frantz e sou Analista de Sistemas</h1>
 <h3 align="center">Junior DevOps Engineer | Containers | Docker | Kubernetes | Ansible | Terraform | IaC | Pipelines | Jenkins | CI/CD | AWS | Cloud | Linux | Shell Script | GitHub | Monitoramento</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielfrantz&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielfrantz" /> </p>
+Atualmente sou Analista de Sistemas, com mais de 7 anos de experiência na área de Tecnologia da Informação e quero usar toda essa minha experiência adquirida até o momento para atuar como DevOps Júnior. 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrielfrantz" alt="gabrielfrantz" /></a> </p>
+Como DevOps Júnior eu tenho a habilidade de ser muito comunicativo e organizado, e isso me permite trabalhar muito bem em equipe e entregar tarefas no prazo determinado. Meu diferencial é que sou um profissional que sempre busca dar o seu melhor em tudo que faz.
+
+Trabalho com foco na automação de processos a fim de aumentar o desempenho e produtividade dos usuários e suas tarefas, através da criação de relatórios eficazes e integração de sistemas, evitando assim o trabalho manual.
+
+Possuo alto conhecimento em redes de computadores, virtualização de máquinas, linux, shell script, ferramentas administrativas do windows server, bancos de dados relacionais, levantamento de requisitos, implantação de sistemas, suporte e treinamento de usuários. 
+
+Também realizei treinamentos em cursos de containers, como Docker, orquestração de containers, como o Kubernetes, ferramentas de integração contínua e entrega contínua, como o Jenkins, ferramentas de monitoramento e observabilidade, como o Prometheus e o Grafana, e possuo certificações em Red Hat OpenShift I: Containers & Kubernetes da Red Hat e AWS Certified Cloud Practitioner da Amazon AWS.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

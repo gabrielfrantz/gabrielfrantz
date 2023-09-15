@@ -4,7 +4,7 @@
 
 
 
-Analista de Sistemas, com mais de 7 anos de experiência na área de Tecnologia da Informação com certificações AWS Certified Cloud Practitioner da AWS e Red Hat OpenShift I: Containers & Kubernetes da Red Hat.
+Analista de Tecnologia da Informação, com mais de 7 anos de experiência e com certificações AWS Certified Cloud Practitioner da AWS e Red Hat OpenShift I: Containers & Kubernetes da Red Hat.
 
 Habilidades de comunicação e organização, que permitem trabalhar muito bem em equipe e entregar tarefas no prazo determinado. Profissional que sempre busca dar o seu melhor em tudo que faz.
 

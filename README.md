@@ -4,21 +4,20 @@
 
 
 
-Analista de Tecnologia da Informação, com mais de 7 anos de experiência e com certificações AWS Certified Cloud Practitioner da AWS e Red Hat OpenShift I: Containers & Kubernetes da Red Hat.
+Analista DevOps com cerca de 1 ano de experiência e com mais de 8 anos de experiência na área de Tecnologia da Informação.
 
 Habilidades de comunicação e organização, que permitem trabalhar muito bem em equipe e entregar tarefas no prazo determinado. Profissional que sempre busca dar o seu melhor em tudo que faz.
 
 Trabalho com foco na automação de processos a fim de aumentar o desempenho e produtividade dos usuários e suas tarefas, através da criação de relatórios eficazes e integração de sistemas, evitando assim o trabalho manual.
 
-Conhecimento em redes de computadores, virtualização de máquinas, linux, ferramentas administrativas do windows server, bancos de dados, containers, orquestração de containers, desenvolvimento, levantamento de requisitos, versionamento de código, implantação de sistemas, atendimento remoto e presencial a clientes, suporte e treinamento de usuários.
+Conhecimento em redes de computadores, virtualização de máquinas, linux, automatização de tarefas rotineiras e de backups, ferramentas administrativas do windows server, bancos de dados relacionais e não relacionais, gerenciamento de infraestrutura, segurança de ambientes e sistemas operacionais, containers, orquestração de containers, cloud, scripts de automação, APIs, balanceadores de carga, desenvolvimento de sistemas e soluções, levantamento de requisitos, versionamento de código, implantação de sistemas, atendimento remoto e presencial a clientes, suporte e treinamento de usuários.
 
-Realização de treinamentos e aperfeiçoamentos em diversas ferramentas e tecnologias, tais como, Docker para criação de containers, Kubernetes para orquestração de containers, Jenkins para integração contínua e entrega contínua (CI/CD), Prometheus e Grafana para monitoramento e observabilidade, Python e Shell Script para desenvolvimento e criação de aplicações e scripts de automação.
+Realização de treinamentos e aperfeiçoamentos em diversas ferramentas e tecnologias que envolvem a cultura DevOps, tais como, Docker para conteinerização, Kubernetes para orquestração de containers, Rancher para gerenciamento e orquestração dos clusters Kubernetes, GCP e AWS como Cloud, GitLab para versionamento de código, Kong como API Gateway, Jenkins para integração contínua e entrega contínua (CI/CD), Zabbix e Grafana para monitoramento e observabilidade, Python e Shell Script para desenvolvimento, criação de aplicações e scripts de automação.
 
 Se precisar da minha ajuda, é só entrar em contato: 
+Canal Youtube: https://www.youtube.com/@devopsgaucho
 E-mail: gabrieldecarvalhofrantz@gmail.com
 WhatsApp: (51) 99692-4728
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

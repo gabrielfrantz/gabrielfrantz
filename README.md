@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, meu nome é Gabriel de Carvalho Frantz e seja muito bem vindo(a) ao meu GitHub</h1>
 
-<h3 align="center">DevOps Engineer | Containers | Docker | Kubernetes | Ansible | Terraform | IaC | Pipelines | Jenkins | CI/CD | AWS | Cloud | Linux | Shell Script | GitHub | Monitoramento</h3>
+<h3 align="center">DevOps Engineer | Containers | Docker | Kubernetes | Rancher | Jira | Jenkins | AWS | GCP | Linux | GitLab | Zabbix | Grafana | Kong</h3>
 
 
 

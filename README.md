@@ -1,21 +1,34 @@
 <h1 align="center">Olá 👋, meu nome é Gabriel de Carvalho Frantz e seja muito bem vindo(a) ao meu GitHub</h1>
 
-<h3 align="center">DevOps Engineer | Containers | Docker | Kubernetes | Rancher | Jira | Jenkins | AWS | GCP | Linux | GitLab | Zabbix | Grafana | Kong</h3>
+<h3 align="center">DevOps | Containers | Docker | Kubernetes | Rancher | Jira | Jenkins | AWS | GCP | Linux | GitLab | GitHub | Zabbix | Grafana | Kong | CI/CD</h3>
 
 
 
-Analista DevOps com cerca de 1 ano de experiência e com mais de 8 anos de experiência na área de Tecnologia da Informação.
+Analista DevOps com cerca de 2 anos de experiência em automação e orquestração de infraestrutura, além de mais de 8 anos de atuação na área de Tecnologia da Informação. Experiência consolidada em Infraestrutura de TI, Cloud Computing e práticas DevOps, com foco em projetos que envolvem automação de processos, integração contínua (CI/CD) e implementação de ambientes modernos e escaláveis.
 
-Habilidades de comunicação e organização, que permitem trabalhar muito bem em equipe e entregar tarefas no prazo determinado. Profissional que sempre busca dar o seu melhor em tudo que faz.
+Atuo na implementação de pipelines CI/CD para garantir entregas rápidas e confiáveis, na orquestração de containers para otimizar o uso de recursos, e na monitorização de ambientes para prever e solucionar problemas antes que impactem os negócios. Profissional focado em aprendizado contínuo, com interesse em novas tecnologias, práticas ágeis, e em aprimorar ainda mais minha expertise em soluções inovadoras e automação avançada.
 
-Trabalho com foco na automação de processos a fim de aumentar o desempenho e produtividade dos usuários e suas tarefas, através da criação de relatórios eficazes e integração de sistemas, evitando assim o trabalho manual.
+Tenho contribuído para a implementação de ambientes escaláveis e resilientes, garantindo entrega contínua e confiável de software. Sempre buscando crescimento na área, com foco em soluções inovadoras e automação avançada, além de um grande interesse em práticas de observabilidade e otimização de custos em nuvem.
 
-Conhecimento em redes de computadores, virtualização de máquinas, linux, automatização de tarefas rotineiras e de backups, ferramentas administrativas do windows server, bancos de dados relacionais e não relacionais, gerenciamento de infraestrutura, segurança de ambientes e sistemas operacionais, containers, orquestração de containers, cloud, scripts de automação, APIs, balanceadores de carga, desenvolvimento de sistemas e soluções, levantamento de requisitos, versionamento de código, implantação de sistemas, atendimento remoto e presencial a clientes, suporte e treinamento de usuários.
+Hard Skills:
+- Containers e Orquestração: Docker, Kubernetes e Rancher.
+- Integração e Entrega Contínua: Jenkins, GitLab CI/CD, GitHub Actions.
+- Infraestrutura como Código: Terraform.
+- Monitoramento: Grafana e Zabbix.
+- Linguagens de Script: Bash e Python.
+- Nuvem: AWS e GCP.
+- Proxy e Balanceador de Carga: Nginx e API Kong.
 
-Realização de treinamentos e aperfeiçoamentos em diversas ferramentas e tecnologias que envolvem a cultura DevOps, tais como, Docker para conteinerização, Kubernetes para orquestração de containers, Rancher para gerenciamento e orquestração dos clusters Kubernetes, GCP e AWS como Cloud, GitLab para versionamento de código, Kong como API Gateway, Jenkins para integração contínua e entrega contínua (CI/CD), Zabbix e Grafana para monitoramento e observabilidade, Python e Shell Script para desenvolvimento, criação de aplicações e scripts de automação.
+Soft Skills:
+- Comunicação Clara: Habilidade de traduzir conceitos técnicos para públicos diversos.
+- Trabalho em Equipe: Experiência colaborando com desenvolvedores e equipes multifuncionais.
+- Gestão de Tempo: Priorização eficiente de tarefas em ambientes dinâmicos.
+- Proatividade: Busca contínua por melhorias e aprendizado em novas tecnologias.
+- Resolução de Problemas: Análise estratégica para identificar e solucionar desafios complexos.
+- Adaptabilidade: Facilidade para lidar com mudanças e novas demandas.
 
 Se precisar da minha ajuda, é só entrar em contato: 
-Canal Youtube: https://www.youtube.com/@devopsgaucho
+Canal do youtube: https://www.youtube.com/@devopsgaucho
 E-mail: gabrieldecarvalhofrantz@gmail.com
 WhatsApp: (51) 99692-4728
 

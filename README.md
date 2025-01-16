@@ -27,9 +27,12 @@ Soft Skills:
 - Resolução de Problemas: Análise estratégica para identificar e solucionar desafios complexos.
 - Adaptabilidade: Facilidade para lidar com mudanças e novas demandas.
 
-Se precisar da minha ajuda, é só entrar em contato: 
+Se precisar da minha ajuda, é só entrar em contato:
+
 Canal do youtube: https://www.youtube.com/@devopsgaucho
+
 E-mail: gabrieldecarvalhofrantz@gmail.com
+
 WhatsApp: (51) 99692-4728
 
 <h3 align="left">Connect with me:</h3>
